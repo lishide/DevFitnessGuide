@@ -18,5 +18,6 @@
 * [饮食](docs/txt/diet/README.md)
 * [计划](docs/txt/plan/README.md)
 * [小技巧](docs/txt/skill/README.md)
+    * [最简单实用的 20 个方法，帮你提高基础代谢率](docs/txt/skill/skill01.md)
 * [我们的故事](docs/txt/story/README.md)
 
