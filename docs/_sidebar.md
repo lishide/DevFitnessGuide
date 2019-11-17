@@ -18,5 +18,6 @@
 * [计划](/txt/plan/README.md)
 * [小技巧](/txt/skill/README.md)
     * [最简单实用的 20 个方法，帮你提高基础代谢率](/txt/skill/skill01.md)
+    * [增肌期的小技巧](/txt/skill/skill02.md)
 * [我们的故事](/txt/story/README.md)
 
