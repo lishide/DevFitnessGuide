@@ -4,7 +4,7 @@
 * [基础知识](/txt/basics/README.md)
     * [常识](/txt/basics/basics01.md)
     * [阶段](/txt/basics/basics02.md)
-* [计划](docs/txt/plan/README.md)
+* [计划](/txt/plan/README.md)
     * [极速减脂思路](/txt/plan/plan-speed-loss-thinking.md) 
 * [力量训练](/txt/train/README.md)
     * [01-肩部](/txt/train/train01.md)
