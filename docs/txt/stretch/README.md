@@ -21,7 +21,7 @@
 
 一周的时间，就可以帮助你改善含胸驼背。
 
-<img src="../../assets/images/img_stretch_20191109185854.png" width = "200" alt="img_stretch_1.png"/>
+<img src="https://github.com/lishide/DevFitnessGuide/raw/master/docs/assets/images/img_stretch_20191109185854.png" width = "200" alt="img_stretch_1.png"/>
 
 
 ### 2.2. 一次性解决头前引、含胸驼背
@@ -31,7 +31,7 @@
 
 一侧手臂固定在臀部下方，另一侧手拉伸头部，下巴向斜上方扬起45度左右，每侧持续拉伸20秒。
 
-<img src="../../assets/images/img_stretch_20191109190342.png" width = "200" alt="img_stretch_2.png"/>
+<img src="https://github.com/lishide/DevFitnessGuide/raw/master/docs/assets/images/img_stretch_20191109190342.png" width = "200" alt="img_stretch_2.png"/>
 
 
 #### 2.2.2. 拉伸颈前肌肉及胸大肌上侧
@@ -39,7 +39,7 @@
 
 坐于地面或凳子，双手背后相扣，抬头挺胸肩部下沉，静止拉伸30秒。
 
-<img src="../../assets/images/img_stretch_20191109190311.png" width = "200" alt="img_stretch_3.png"/>
+<img src="https://github.com/lishide/DevFitnessGuide/raw/master/docs/assets/images/img_stretch_20191109190311.png" width = "200" alt="img_stretch_3.png"/>
 
 
 #### 2.2.3. 锻炼激活肩胛骨周围肌肉
@@ -47,6 +47,6 @@
 
 肩胛骨、头部及臀部贴于墙面，下沉中大臂与小臂成90度左右，做上下收缩动作，向下呼气向上吸气，完成20个一组。
 
-<img src="../../assets/images/img_stretch_20191109190333.png" width = "200" alt="img_stretch_4.png"/>
+<img src="https://github.com/lishide/DevFitnessGuide/raw/master/docs/assets/images/img_stretch_20191109190333.png" width = "200" alt="img_stretch_4.png"/>
 
 
